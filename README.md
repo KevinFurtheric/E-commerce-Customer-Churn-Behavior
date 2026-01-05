@@ -1,7 +1,9 @@
 <<<<<<< HEAD
+
 # E-commerce-Customer-Churn-Behavior
-This project analyzes customer churn, engagement, and value patterns for a global e-commerce/subscription platform.   The goal is to identify high-risk customer segments, understand behavioral signals leading to churn, and provide actionable recommendations to improve customer retention and lifetime value.
-=======
+
+# This project analyzes customer churn, engagement, and value patterns for a global e-commerce/subscription platform. The goal is to identify high-risk customer segments, understand behavioral signals leading to churn, and provide actionable recommendations to improve customer retention and lifetime value.
+
 # E-Commerce Customer Churn Analysis (Power BI)
 
 ## 📌 Project Overview
@@ -95,15 +97,10 @@ Implementing targeted retention strategies based on behavioral signals can:
 
 ## 📷 Dashboard Preview
 
-## ![Executive Summary](<Screenshot 2026-01-05 081206.png>)
-
-![Customer Overview](<Screenshot 2026-01-05 081230.png>)
-
-![Customer Value Analysis](image.png)
-
-![Customer Service and Friction](image.png)
+##![alt text](<Risk Profiling.png>) ![alt text](<Customer Overview.png>) ![alt text](<Customer Service and Friction.png>) ![alt text](<Customer Value Analysis.png>) ![alt text](<Executive Summary.png>)
 
 ## 📁 Project Status
 
 Completed and published as a portfolio project to demonstrate end-to-end data analysis, insight generation, and business-driven decision making using Power BI.
->>>>>>> 67c97b8 (E-commerce Customer Churn Behavior)
+
+> > > > > > > 67c97b8 (E-commerce Customer Churn Behavior)
