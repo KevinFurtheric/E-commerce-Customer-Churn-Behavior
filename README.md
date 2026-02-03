@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # E-commerce-Customer-Churn-Behavior
 
 # This project analyzes customer churn, engagement, and value patterns for a global e-commerce/subscription platform. The goal is to identify high-risk customer segments, understand behavioral signals leading to churn, and provide actionable recommendations to improve customer retention and lifetime value.
